@@ -1,5 +1,21 @@
 body{
-    color: coral;
+    color: #333;
     text-align: center;
     font-family: "Arial";
+    font-size: 10px;
+    margin: 0;
+    padding:0;
+
+}
+
+#contenedor {
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #ddd;
+    margin: 0 auto;
+
+}
+#contenedor h1 {
+    font-size: 10px;
 }
